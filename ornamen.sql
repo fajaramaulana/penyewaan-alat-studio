@@ -205,8 +205,8 @@ CREATE TABLE `members` (
 --
 
 INSERT INTO `members` (`member_id`, `fullname`, `gender`, `address`, `city`, `state`, `zip_code`, `phone`, `email`, `password`, `reg_date`) VALUES
-(1, 'agus maulana', 'Laki-laki', 'Kebon sirih', 'Menteng', 'DKI jakarta', '12313', '+6223342123', 'jahro666@gmail.com', '448ba9e21b56d82e5edca3fd25d1748e', '2021-07-03'),
-(2, 'fajar maulana', 'Laki-laki', 'Jl. DANAU KELAPA DUA', 'Tangerang', 'Banten', '15811', '+6285714575433', 'fajarmaulana110897@gmail.com', '448ba9e21b56d82e5edca3fd25d1748e', '2021-07-03');
+(1, 'agus maulana', 'Laki-laki', 'Kebon sirih', 'Menteng', 'DKI jakarta', '12313', '+6223342123', 'jo666@gmail.com', '448ba9e21b56d82e5edca3fd25d1748e', '2021-07-03'),
+(2, 'fajar maulana', 'Laki-laki', 'Jl. DANAU KELAPA DUA', 'Tangerang', 'Banten', '15811', '+6285714575433', 'fam2123@gmail.com', '448ba9e21b56d82e5edca3fd25d1748e', '2021-07-03');
 
 -- --------------------------------------------------------
 
